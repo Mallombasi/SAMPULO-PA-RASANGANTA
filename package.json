@@ -1,0 +1,13 @@
+{
+  "name": "sampulo-app",
+  "version": "1.0.0",
+  "description": "SAMPULO PA'RASANGANTA - static web app (from uploaded index10.html)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "license": "MIT"
+}
